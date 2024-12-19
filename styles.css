@@ -1,0 +1,104 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+.container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding: 20px 0;
+  text-align: center;
+}
+
+header h1 {
+  font-size: 2.5em;
+  margin-bottom: 10px;
+}
+
+header .title {
+  font-size: 1.2em;
+  font-weight: 300;
+}
+
+header .contact-info a {
+  color: #fff;
+  text-decoration: none;
+  margin: 0 10px;
+}
+
+header .contact-info a:hover {
+  text-decoration: underline;
+}
+
+section {
+  margin: 40px 0;
+}
+
+h2 {
+  font-size: 2em;
+  margin-bottom: 10px;
+  color: #333;
+}
+
+h3 {
+  font-size: 1.5em;
+  margin-top: 20px;
+  color: #555;
+}
+
+ul {
+  list-style-type: none;
+  padding-left: 20px;
+}
+
+ul li {
+  margin-bottom: 10px;
+}
+
+ul li:before {
+  content: "• ";
+  color: #333;
+  font-size: 1.2em;
+}
+
+footer {
+  background-color: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px 0;
+}
+
+footer p {
+  font-size: 1em;
+}
+
+@media (max-width: 768px) {
+  .container {
+    width: 90%;
+  }
+
+  header h1 {
+    font-size: 2em;
+  }
+
+  header .title {
+    font-size: 1em;
+  }
+
+  section {
+    margin: 30px 0;
+  }
+}
