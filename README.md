@@ -1,6 +1,6 @@
-<!--# hr.github.io-->
+# hr.github.io
 
-# Yakubu Haruna Emmanuel
+<!--# Yakubu Haruna Emmanuel
 **Cyber Security Analyst | Data Analyst | IT Support Specialist**  
 Lagos, Nigeria  
 📧 [hrnkb8@gmail.com](mailto:hrnkb8@gmail.com) | [LinkedIn](https://linkedin.com/in/hrnkb8) | [Website](https://hrnkb8.github.io)
